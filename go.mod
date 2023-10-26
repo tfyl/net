@@ -1,4 +1,4 @@
-module github.com/gospider007/net
+module github.com/tfyl/net
 
 go 1.21.3
 
